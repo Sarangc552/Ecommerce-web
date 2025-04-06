@@ -1,12 +1,26 @@
-# React + Vite
+# Ecommerce-web app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A simple product listing UI built with **React**, **Tailwind CSS**, and **DummyJSON API**. Features category filters, price sorting, search with intelligent routing, pagination, and detailed product view.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Features:
+- 🔍 Global search across all pages
+- 🗂️ Filter products by category
+- 💰 Sort products by price (Low → High, High → Low)
+- 📄 Pagination with 6 products per page
+- 🌐 View product details on a separate page
+- ⚡ Responsive and mobile-friendly layout
 
-## Expanding the ESLint configuration
+# Go into project folder
+cd E-commerce  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Run the app
+npm run dev
+
+#Tech Stack
+.React
+.Tailwind CSS
+.React Router
+.Axios
+.MUI Rating
+.DummyJSON API
